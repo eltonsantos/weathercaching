@@ -1,0 +1,2 @@
+../bluez-5.2/attrib/gatttool -b BC:6A:29:C3:A1:27 --interactive
+
